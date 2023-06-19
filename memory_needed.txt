@@ -1,0 +1,15 @@
+chaque containers utlisent en gros 25 Mo de mémoire vive (RAM).
+Ce qui nous donne 24Mo * 3915506.39269406 = 93972168 Mo.
+Soit 93972,168 Go RAM.
+
+Avec 100,
+2,5 Go RAM
+
+Avec 500,
+12,5 Go RAM
+
+Avec 1000,
+25 Go RAM
+
+Avec 10000,
+250 Go RAM

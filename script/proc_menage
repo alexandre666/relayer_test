@@ -1,0 +1,65 @@
+CONTAINER ID   IMAGE                         COMMAND             CREATED          STATUS          PORTS                                                            NAMES
+6029be321159   supplychainx_menage28         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage28_1
+70a6a8b87227   supplychainx_menage35         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage35_1
+1f600d773655   supplychainx_menage15         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage15_1
+576bd750e5e5   supplychainx_menage29         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage29_1
+872cde6fb610   supplychainx_menage14         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage14_1
+919915d49c61   supplychainx_menage36         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage36_1
+81434a84b5c1   supplychainx_menage34         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage34_1
+29b1385702a1   supplychainx_menage31         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage31_1
+436627d00af1   supplychainx_menage33         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage33_1
+d260754f4f3b   supplychainx_menage30         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage30_1
+9faed9ee8b3f   supplychainx_menage25         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage25_1
+664f200e7c71   supplychainx_menage26         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage26_1
+3b917c34aa71   supplychainx_menage16         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage16_1
+01650842c4b8   supplychainx_menage23         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage23_1
+f57669a96bf6   supplychainx_menage32         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage32_1
+e37e1898ccdc   supplychainx_menage24         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage24_1
+e4e871fdc110   supplychainx_menage27         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage27_1
+14a33745f2f0   supplychainx_menage20         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage20_1
+a4846af091e1   supplychainx_menage21         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage21_1
+7303f9f118e1   supplychainx_menage4          "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage4_1
+63171e21c124   supplychainx_menage1          "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage1_1
+e0f09bf3d364   supplychainx_menage8          "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage8_1
+33b6015a71fd   supplychainx_menage3          "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage3_1
+7584e3ff5c06   supplychainx_menage7          "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage7_1
+24adc705db2c   supplychainx_menage2          "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage2_1
+88a31ca6ee56   supplychainx_menage5          "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage5_1
+9ba687bc607c   supplychainx_menage6          "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage6_1
+fc56522b57ce   supplychainx_menage17         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage17_1
+26055deb9932   supplychainx_menage22         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage22_1
+40a8a4991cbd   supplychainx_menage19         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage19_1
+398b0d7ecf0c   supplychainx_menage12         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage12_1
+df1baa460025   supplychainx_menage10         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage10_1
+e904b7794896   supplychainx_menage11         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage11_1
+ef745a2bddbb   supplychainx_menage13         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage13_1
+22ab6050848a   supplychainx_menage9          "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage9_1
+fda54e542c70   supplychainx_menage18         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage18_1
+d684ec79639b   supplychainx_menage38         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage38_1
+6ee0d1f98dec   supplychainx_menage37         "./start_node.sh"   34 minutes ago   Up 34 minutes   26656/tcp                                                        supplychainx_menage37_1
+1f9eab4033fa   supplychainx_obwald           "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26005->26005/tcp, :::26005->26005/tcp, 26656-26657/tcp   supplychainx_obwald_1
+6f9da915112b   supplychainx_valais           "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26022->26022/tcp, :::26022->26022/tcp, 26656-26657/tcp   supplychainx_valais_1
+7362e310c22d   supplychainx_uri              "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26003->26003/tcp, :::26003->26003/tcp, 26656-26657/tcp   supplychainx_uri_1
+f8753b6229de   supplychainx_thurgovie        "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26019->26019/tcp, :::26019->26019/tcp, 26656-26657/tcp   supplychainx_thurgovie_1
+b35abc72b9cb   supplychainx_tessin           "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26020->26020/tcp, :::26020->26020/tcp, 26656-26657/tcp   supplychainx_tessin_1
+900d6acac358   supplychainx_nidwald          "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26006->26006/tcp, :::26006->26006/tcp, 26656-26657/tcp   supplychainx_nidwald_1
+df1656902879   supplychainx_lucerne          "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26002->26002/tcp, :::26002->26002/tcp, 26656-26657/tcp   supplychainx_lucerne_1
+e1177451adaa   supplychainx_vaud             "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26021->26021/tcp, :::26021->26021/tcp, 26656-26657/tcp   supplychainx_vaud_1
+472b9d644c1b   supplychainx_saint-gall       "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26016->26016/tcp, :::26016->26016/tcp, 26656-26657/tcp   supplychainx_saint-gall_1
+75ba32d1e7c6   supplychainx_argovie          "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26018->26018/tcp, :::26018->26018/tcp, 26656-26657/tcp   supplychainx_argovie_1
+4ddf336834b5   supplychainx_neuchatel        "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26023->26023/tcp, :::26023->26023/tcp, 26656-26657/tcp   supplychainx_neuchatel_1
+55b9afdd0e42   supplychainx_appenzellrhint   "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26015->26015/tcp, :::26015->26015/tcp, 26656-26657/tcp   supplychainx_appenzellrhint_1
+d7e8251a0817   supplychainx_schwyz           "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26004->26004/tcp, :::26004->26004/tcp, 26656-26657/tcp   supplychainx_schwyz_1
+ce8ec3ce4cd6   supplychainx_grisons          "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26017->26017/tcp, :::26017->26017/tcp, 26656-26657/tcp   supplychainx_grisons_1
+44952334eaf9   supplychainx_appenzellrhext   "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26014->26014/tcp, :::26014->26014/tcp, 26656-26657/tcp   supplychainx_appenzellrhext_1
+1bf2c86fca37   supplychainx_soleure          "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26010->26010/tcp, :::26010->26010/tcp, 26656-26657/tcp   supplychainx_soleure_1
+ef5ee9a912ec   supplychainx_zurich           "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26000->26000/tcp, :::26000->26000/tcp, 26656-26657/tcp   supplychainx_zurich_1
+6f5e90bca901   supplychainx_schaffhouse      "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26013->26013/tcp, :::26013->26013/tcp, 26656-26657/tcp   supplychainx_schaffhouse_1
+060eafa8c403   supplychainx_jura             "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26025->26025/tcp, :::26025->26025/tcp, 26656-26657/tcp   supplychainx_jura_1
+7343190123c2   supplychainx_bale-ville       "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26011->26011/tcp, :::26011->26011/tcp, 26656-26657/tcp   supplychainx_bale-ville_1
+11939522f914   supplychainx_fribourg         "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26009->26009/tcp, :::26009->26009/tcp, 26656-26657/tcp   supplychainx_fribourg_1
+3e11c6457f3c   supplychainx_bale-campagne    "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26012->26012/tcp, :::26012->26012/tcp, 26656-26657/tcp   supplychainx_bale-campagne_1
+f1fc40eb1c1c   supplychainx_berne            "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26001->26001/tcp, :::26001->26001/tcp, 26656-26657/tcp   supplychainx_berne_1
+7d21a126097f   supplychainx_zoug             "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26008->26008/tcp, :::26008->26008/tcp, 26656-26657/tcp   supplychainx_zoug_1
+01527f6ee811   supplychainx_glaris           "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26007->26007/tcp, :::26007->26007/tcp, 26656-26657/tcp   supplychainx_glaris_1
+8639bb9a88b4   supplychainx_geneve           "./start_node.sh"   34 minutes ago   Up 34 minutes   0.0.0.0:26024->26024/tcp, :::26024->26024/tcp, 26656-26657/tcp   supplychainx_geneve_1
